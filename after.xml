@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+    <title>Mail Filters</title>
+    <id>tag:mail.google.com,2008:filters</id>
+    <updated>2024-01-02T12:50:31.886Z</updated>
+
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_0</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='6.002.1x-no-reply@courseupdates.edx.org OR 6.002.3x-no-reply@courseupdates.edx.org OR ALGS200x-no-reply@courseupdates.edx.org OR AMinuteMore@updates.bofa.com OR Active@ucloudlink.com OR AllThingsDisney@e.disneyconsumerproductsinteractive.com OR Barrons@em.dowjones.com OR Boston-FreeCodeCampers-list@meetup.com OR Business5726229@mindbodyonline.com OR CBSA.DoNotReply-NePasRepondre.ASFC@list-liste.cbsa-asfc.gc.ca OR CCIntRev@adobe.com OR CPEmarketing@spu.edu OR CRM@club.casetify.com OR CS50-no-reply@courseupdates.edx.org OR CVSPharmacy@pharmacy.cvs.com OR CarboneHongKong@hello.sevenrooms.com OR Celeste@fitkova.com OR Code-for-Boston-announce@email.meetup.com OR Code-for-Boston-list@email.meetup.com OR Communications@gbfb.org'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_1</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='Costco@digital.costco.com OR Costco@online.costco.com OR CustomerService@beauty.sephora.com OR D23@email.d23.com OR DFSCIRCLE@email.dfs.com OR Deliveroo@feedback.deliveroo.com OR DisneyGames@e.disneyconsumerproductsinteractive.com OR DisneyMerchandise@e.disneyconsumerproductsinteractive.com OR DisneyMovies@em.disneymovies.com OR EatingWell@mail.eatingwell.com OR Equinox@results.equinox.com OR Express-Yourself-Boston-list@email.meetup.com OR Forever21@i.forever21.com OR Info@n.shuuemura-usa.com OR K12education@communications.gatesfoundation.org OR LOYALT@email.dfs.com OR Learning@mfa.org OR MITx_OL@mit.edu OR Marketing@labconcepthk.com OR Merrill@message.merrilledge.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_2</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='Michaels@emdeals.michaels.com OR MoneyBack@mbhk.fortress.com.hk OR MoneyBack@mbhk.moneyback.com.hk OR MoneyBack@mbhk.parknshop.com.hk OR MyDisney@e.disneyconsumerproductsinteractive.com OR NoReply-Savings@e.marcus.com OR NotiFLY@notification.cathaypacific.com OR NotiFLY@service.cathaypacific.com OR PayPal@emails.paypal.com OR Petco@e.petco.com OR ProSupport@hellotoby.com OR RoyalCaribbean@reply.royalcaribbeanmarketing.com OR Saucony@email.saucony.com OR ScratchEd-Boston-announce@email.meetup.com OR ScratchEd-Boston-list@email.meetup.com OR SoftEngPrjx-no-reply@courseupdates.edx.org OR Steinway__Sons@mail.vresp.com OR TheMinute@updates.bofa.com OR Tickets@mfa.org OR TodayTix@email.todaytix.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_3</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='TravelandLeisure@mail.travelandleisure.com OR TravelandLeisure@specialoffers.meredith.com OR TurboTax@em1.turbotax.intuit.com OR Updates@email.20thcenturystudios.com OR VZWMail@ecrmemail.verizonwireless.com OR Viator@m1b.viator.com OR Vrbo@travel.vrbo.com OR WFTtix@bu.edu OR WallStreetJournal@em.dowjones.com OR abroad@bu.edu OR academy@interviewbit.com OR account@account.quizlet.com OR accounts@m.meister.co OR activation@familywall.com OR admin@e.boohoonationwidepricingsettlement.com OR admin@uber.com OR admin@vagaro.com OR admissions@sfmc.rossieronline.usc.edu OR akankshachaturvedi794@yahoo.com OR alan@wakatime.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_4</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='alexk@buddy.works OR alumni@bu.edu OR alumniweekend@bu.edu OR app-noreply@comm.octopus.com.hk OR applefitnessplus@insideapple.apple.com OR appleid@id.apple.com OR apps@e.disneyconsumerproductsinteractive.com OR aritzia@em.aritzia.com OR artclasses@mfa.org OR assist@customerassist.bankofamerica.com OR assistant@anyahindmarch.com OR asurionexperts@home.asurion.com OR audibrookline@herbchambers.com OR audiexperience@e.audiusa.com OR automated@airbnb.com OR automated@orders.viagogo.com OR aws-marketing-email-replies@amazon.com OR bananarepublicfactory@email.bananarepublicfactory.com OR bankofamerica@emcom.bankofamerica.com OR bergdorfgoodman@email.bergdorfgoodman.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_5</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='biblica@mail.biblica.com OR bike@bu.edu OR billing@leetcode.com OR billing@r.marksandspencerme.com OR billing@wakatime.com OR boardingpass@cathaypacific.com OR bonjour@email.mmlafleur.com OR booking@biz-mail.openrice.com OR boomerang@baydin.com OR bootcamps@mit.edu OR boston-javascript-announce@email.meetup.com OR bostonia@bu.edu OR bouqs@mail.bouqs.com OR bplpresident@bpl.org OR breethe@mail.breethe.com OR brendanm@msteinert.com OR brianandlesliemulcahy@gmail.com OR bu@service-now.com OR buinfosec@bu.edu OR bumk@bu.edu'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_6</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='business@spacious.hk OR bussw@bu.edu OR careers@fidelity.com OR carepass@pharmacy.cvs.com OR carousell-8b0c-110eae4-198a37e14@mail.carousell.com OR carousell-8b0c-11f6548-197e4a8bc@mail.carousell.com OR carousell-8b0c-137bcb8-19d829680@mail.carousell.com OR carousell-8b0c-1cd5148-19d42390c@mail.carousell.com OR carousell-8b0c-2d9131c-198f256d4@mail.carousell.com OR carousell-8b0c-30c8e5c-198d92a6c@mail.carousell.com OR carousell-8b0c-37f7554-19d8ab334@mail.carousell.com OR carousell-8b0c-6530388-198a37c24@mail.carousell.com OR carousell-8b0c-a49ee5c-198f246cc@mail.carousell.com OR carrie@planoly.com OR casalum@bu.edu OR ccr.hkk11@pure-fitness.com OR ccteam@pure-international.com OR cfaalum@bu.edu OR cheers@email.drizly.com OR cherjuxcloptrau@gmail.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_7</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='chewy@woof.chewy.com OR chinatown.respite@gmail.com OR chloe@lalalab-app.com OR chris@caliberstrong.com OR christy@plannthat.com OR clubconcierge@mplaceboston.com OR coach.europe@mail.coach.com OR collegeboard@e.collegeboard.org OR comalum@bu.edu OR comments-noreply@docs.google.com OR communication@moma-group.com OR communications@bracusa.org OR communications@gbfb.org OR communications@servicing.ml.com OR communications@womenwhocode.com OR community@email.withings.com OR community@topcoder.com OR concierge@expensify.com OR conferences@e.scmp.com OR conner@mail.replit.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_8</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='contact@alcoholchange.org.uk OR contact@coffeemeetsbagel.com OR contact@dashvapes.com OR contact@explora.com OR contact@info.foodpanda.hk OR contact@mail.replit.com OR contact@ruemadame.com OR contact@womenwhocode.com OR contact_61a6931c-dffe-4c64-a6bf-3dcd6613f925@email-support.uber.com OR create@papersource.com OR crew@hyperskill.org OR crm@haagendazs-gift.com OR cs@wanta.net OR csehealth@hku.hk OR csinfo@bu.edu OR curator@e.saatchiart.com OR curiosity-noreply@quora.com OR customer.service@christianbook.com OR customercare@selectregistry.com OR customerservice@bluebikes.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_9</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='customerservice@southsmoke.com OR dan@launchacademy.com OR darsvp@bu.edu OR davidb@expensify.com OR deals@expansys.com.hk OR deals@market-us.sheinmail.com OR developer@insideapple.apple.com OR development@bidmc.harvard.edu OR digbus@bu.edu OR digital-no-reply@amazon.com OR digiviestinta@helsinki.fi OR discover@airbnb.com OR disneyonbroadway@mail.disneyonbroadway.com OR disneyonice@email.disneyonice.com OR disneyplus@mail.disneyplus.com OR do-not-reply@blackboard.com OR do-not-reply@boutir.com OR do-not-reply@sporcle.com OR do-not-reply@stackoverflow.email OR do_not_reply@itunes.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_10</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='donoreply@marketing.hktvmall.com OR donotreply@23andme.com OR donotreply@amazon.com OR donotreply@email.sweetgreen.com OR donotreply@hktv.com.hk OR donotreply@marketing.hktvmall.com OR donotreply@myfitnesspal.com OR donotreply@notification.sweetgreen.com OR donotreply@pns.hk OR donotreply@services.peopleadmin.com OR donotreply@upwork.com OR dryjanuary@alcoholchange.org.uk OR dsw@em.dsw.com OR e-news@discoverhongkong.com OR eatingwell@mag.eatingwell.com OR ebay@ebay.com OR ebay@info.ebay.com OR ebay@reply.ebay.com OR ebroyles@mooobeaconhill.com OR ecom@mannings.com.hk'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_11</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='edcomm@bu.edu OR edgertertre@gmail.com OR edm_noreply@marketing.uniqlo.com.hk OR education@mail.wgbh.org OR email.HK@official.lecreuset.com OR email.campaign@sg.booking.com OR email@content.prezi.com OR email@create.prezi.com OR email@email.vineyardvines.com OR email@m.aritzia.com OR email@mail.eatingwell.com OR email@mail.shuuemura-usa.com OR email@marksandspencerme.com OR email@printrunner.com OR email@us.uniqlo.com OR employee.support@dailypay.com OR enews@email.pure-international.com OR engagement@alcoholchange.org.uk OR english-personalized-digest@quora.com OR enquiries@vetopia.com.hk'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_12</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='enquiry@hkbookcity.com OR events.reply@e.doctorswithoutborders.org OR events@activecampaign.com OR events@apollographql.com OR events@e.scmp.com OR events@gradle.com OR evp@harvard.edu OR experiences@em.cityexperiences.com OR express@airbnb.com OR extracare@pharmacy.cvs.com OR failed-payments+acct_16Kf9YGo3RRcePD4@stripe.com OR fedex@message.fedex.com OR filipe@codesandbox.io OR flavio@mail.flaviocopes.com OR flower@maysflower.com OR founders@dailycodingproblem.com OR frederik@one-sec.app OR freeform@email.freeform.com OR fundraising@alcoholchange.org.uk OR funhogs@na.patagonia.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_13</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='games@cut.com OR give2bu@bu.edu OR givingday@bu.edu OR global@bu.edu OR gnc@rewards.gnc.com OR google-maps-noreply@google.com OR graduate@merrimack.edu OR graphql_events@linuxfoundation.org OR greatescapelodge@email.sixflags.com OR gretarose@plannthat.com OR groupsubs@e.scmp.com OR hackers@hackerrankmail.com OR handshake@mail.joinhandshake.com OR handshake@notifications.joinhandshake.com OR healthymatters@atriushealth.org OR hello@alerts.udemy.com OR hello@beauty.sephora.hk OR hello@beyondpricing.com OR hello@breathe.calm.com OR hello@buybookbook.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_14</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='hello@casetify.com OR hello@chess.com OR hello@club.casetify.com OR hello@codesandbox.io OR hello@codingforentrepreneurs.com OR hello@create.vista.com OR hello@cut.com OR hello@design4drupal.org OR hello@e.blog.myfitnesspal.com OR hello@e.scmp.com OR hello@elementsofai.com OR hello@email.health.amazon.com OR hello@email.myfitnesspal.com OR hello@email.parkwhiz.com OR hello@email.whisker.com OR hello@glitch.com OR hello@ikigai.hk OR hello@interviewbit.com OR hello@kiwico.com OR hello@launchacademy.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_15</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='hello@launchschool.com OR hello@lottiefiles.com OR hello@m.fontawesome.com OR hello@mail-2.hive.co OR hello@mail-3.hive.co OR hello@mail-7.hive.co OR hello@mail-9.hive.co OR hello@mail-hk.renpho.com OR hello@mail.exercism.io OR hello@mail.exercism.org OR hello@mail.renpho.com OR hello@medium.com OR hello@minnalearn.com OR hello@morningselfapp.com OR hello@mpix.com OR hello@news.fotomax.com OR hello@news.mykeeta.com OR hello@p.touchofmodern.com OR hello@promos.memrise.com OR hello@recipebox.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_16</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='hello@risescience.com OR hello@rocketmiles.com OR hello@shegeeksout.com OR hello@skillshare.com OR hello@skis.com OR hello@team.plannthat.com OR hello@teamcfe.com OR hello@xpandlaces.com OR hello@yogaworks.com OR hello@yotako.io OR help@getlasting.com OR help@honeyfund.com OR hey@thirdlove.com OR hi@mlh.io OR highschoolquizshow@mail.wgbh.org OR hongkongenquiries@spacious.hk OR hookah-02@woyuhookah.com OR hq@swe.org OR humans@meowbox.com OR ikeahongkongmacau@emailpowerreviews.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_17</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='info-pocketconcierge@aexp.com OR info@accounts.getquip.com OR info@beachroadweekend.com OR info@blacksheeprestaurants.com OR info@bookbub.com OR info@bostonballet.org OR info@bynext.co OR info@cascada.travel OR info@cecredentialtrust.com OR info@coffee-concepts.com OR info@devnetworkinc.com OR info@distinctiveinns.com OR info@elephantsapp.com OR info@email.deuxave.com OR info@email.eteach.com OR info@email.meetup.com OR info@email.theguardian.com OR info@emails.hoka.com OR info@escape.getaway.house OR info@eshop.haagendazs-gifting.hk'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_18</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='info@exoduscry.com OR info@focusmovement.sg OR info@globalartslive.org OR info@gothamcomedyclub.com OR info@hokkaidobackcountryclub.com OR info@ikirwa.org OR info@impactteachers.com OR info@imse.com OR info@lifealive.com OR info@lowernine.org OR info@mail.cinema.com.hk OR info@mail.foodpanda.hk OR info@mail.musescore.com OR info@mndflmeditation.com OR info@n.lookfantastic.com OR info@n.myprotein.com OR info@na.havaianas.com OR info@news.us.shein.com OR info@noti.swiss.com OR info@notice.mykeeta.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_19</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='info@om.e.wgbh.org OR info@peerhealthexchange.org OR info@price.com.hk OR info@rabbithillinn.com OR info@rajasthanrifles.com OR info@rhythmjapan.com OR info@schrole.edu.au OR info@signupgenius.com OR info@themixingbowlhk.com OR info@thenisekocompany.com OR info@twitter.com OR info@ufogs.com OR info@uncommonschools.org OR info@wgbh.org OR info@x.com OR info@youarexyz.com OR information@info.email.ikea.com OR insights@rapidapi.com OR instruction@one-sec.app OR ipsy@updates.ipsy.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_20</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='isso@bu.edu OR jetblueairways@email.jetblue.com OR jlooper@bu.edu OR jobalert@lensa.com OR jory@m.fontawesome.com OR jpamilar@peerhealthexchange.org OR jpchovar@explora.com OR katespade@mc.katespade.co.uk OR kevin.mcateer@bilh.org OR kevin@interviewing.io OR kilanmebappa8@gmail.com OR kimrich@bu.edu OR krishanchoudhary@aol.com OR laurence@learntocodewith.me OR learn@apollographql.com OR learn@itr.mail.codecademy.com OR legal-customer-notices@twilio.com OR legal@gitbook.com OR lesleyc@bu.edu OR lflores@mistralbistro.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_21</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='licensureregs2020@mass.gov OR lifelonglearning@bu.edu OR lifestyle-noreply@e.cathaypacific.com OR listeditor@email.abcnewsnow.com OR live@email.kellyandryan.com OR lkernan@bplfund.org OR loft@e.loft.com OR logrocketteam@logrocket.com OR lucasfilm@e.lucasfilm.com OR lululemon@express.medallia.com OR mackenzie.wild@motionrecruitment.com OR mail@carousell.com OR mail@eg.vrbo.com OR mail@email.adobe.com OR mail@ifttt.com OR mail@info.donjohnston.com OR mail@info.texthelp.com OR mail@lennymud.com OR mail@mail.adobe.com OR mail@news.condenast.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_22</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='mail@runreg.com OR mail@update.strava.com OR mandy@rocksbox.com OR marketing@beyondpricing.com OR marketing@email.getquip.com OR marketing@postman.com OR marketing@prosymmetry.com OR marketing@randstad.co.uk OR marketing@unsplash.com OR marksspencer@express.medallia.com OR mata@logrocket.com OR matt@m.fontawesome.com OR melissa@simplelionheartlife.com OR member-noreply@e.cathaypacific.com OR members@medium.com OR members@melissawoodhealth.com OR membership@email.moma.org OR membership@hyperledger.org OR membership@mfa.org OR membership@omfundraising.e.wgbh.org'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_23</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='meow@hello.kitnipbox.com OR met@bu.edu OR metalum@bu.edu OR metcs@bu.edu OR metcsol@bu.edu OR mfafund@mfa.org OR michael.zimmer@marquette.edu OR microcenter@microcenterinsider.com OR mideastclub@engage.ticketmaster.com OR mkt_update@boclife.com.hk OR mone@helpseducationfund.org OR mongodbteam@mail1.mongodb.com OR mongodbteam@mongodb.com OR mrichardson@blockchaintrainingalliance.com OR nathan@mail.replit.com OR navpress@e.navpress.com OR nctm@nctm.org OR newbury@btonefitness.com OR news@artsemerson.org OR news@bpl.org'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_24</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='news@cacher.io OR news@ctm.ralphlauren.com.hk OR news@e.anyahindmarch.com OR news@e.cathaypacific.com OR news@e.saatchiart.com OR news@e.scmp.com OR news@email.cos.com OR news@email.lanecrawford.com OR news@linuxfoundation.org OR news@m.participant.com OR news@newsletter.agentprovocateur.com OR news@newsletter.apimatic.io OR news@post.saatchiart.com OR news@postman.com OR news@pure-360.com OR news@services.cathaypacific.com OR newsletter.reply@e.doctorswithoutborders.org OR newsletter@bbcgoodfood.com OR newsletter@email.norwegianreward.com OR newsletter@gradle.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_25</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='newsletter@gre.myprepclub.com OR newsletter@lifecycle.quizlet.com OR newsletter@mail.bubble.io OR newsletter@mailing.tierrahotels.com OR newsletter@newsletter.quizlet.com OR newsletter@notifications.lumosity.com OR newsletter@official.mandarinoriental.com OR newsletter@postman.com OR newsletter@rapidapi.com OR newsletter@wakatime.com OR newsletter@writethedocs.org OR newsletters@e.economist.com OR newsletters@em.walmart.com OR newsletters@email.fxnetworks.info OR newsletters@email.moma.org OR newsletters@email.store.moma.org OR newsletters@email.watchabc.com OR newsletters@hi.wellfound.com OR ng@about.nationalgeographic.com OR nieuwsbrief@rijksmuseum.nl'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_26</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='niv@e.harpercollinschristian.com OR no-reply@accounts.google.com OR no-reply@bluebikes.com OR no-reply@bounce.imgur.com OR no-reply@business.amazon.com OR no-reply@codingame.com OR no-reply@doordash.com OR no-reply@dropbox.com OR no-reply@e.cathaypacific.com OR no-reply@em-s.dropbox.com OR no-reply@email.bookdepository.com OR no-reply@email.bostonchops.com OR no-reply@email.eventrend.hu OR no-reply@email.tp-link.com OR no-reply@enews.octopus.com.hk OR no-reply@grab.com OR no-reply@hkmovie6.com OR no-reply@hyperledger.org OR no-reply@hyperskill.org OR no-reply@kickstarter.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_27</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='no-reply@leetcode.com OR no-reply@linuxfoundation.org OR no-reply@lyftmail.com OR no-reply@mail.foodpanda.hk OR no-reply@mail.payme.hsbc.com.hk OR no-reply@marketing.lyftmail.com OR no-reply@marketing.zerolongevity.com OR no-reply@musescore.com OR no-reply@my.store-emails.com OR no-reply@nemnet.com OR no-reply@netlify.com OR no-reply@online-ralphlauren.com.hk OR no-reply@pocketconcierge.americanexpress.com OR no-reply@pure-360.com OR no-reply@sanity.io OR no-reply@secure-app.payme.hsbc.com.hk OR no-reply@sellfymail.com OR no-reply@southsmoke.com OR no-reply@spotify.com OR no-reply@t.mail.coursera.org'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_28</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='no-reply@tablecheck.com OR no-reply@thecoop.com OR no-reply@todoist.com OR no-reply@topcoder.com OR no-reply@twitch.tv OR no-reply@uber.com OR no_reply@bpl.org OR no_reply@communications.paypal.com OR no_reply@email.apple.com OR no_reply@flash.lightinthebox.com OR no_reply@news.lightinthebox.com OR no_reply@value.lightinthebox.com OR noreply-behance@behance.com OR noreply-hk@services.decathlon.com OR noreply-messageme@harvard.edu OR noreply@acghk.cc OR noreply@app.octopuscards.com OR noreply@aswatson.net OR noreply@bc.saatchiart.com OR noreply@booking.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_29</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='noreply@camelcamelcamel.com OR noreply@campaign.eventbrite.com OR noreply@coffee-concepts.com OR noreply@customers.gumroad.com OR noreply@discord.com OR noreply@e.fitbit.com OR noreply@e.saatchiart.com OR noreply@em.calm.com OR noreply@email.apple.com OR noreply@followers.gumroad.com OR noreply@fortress.com.hk OR noreply@glassdoor.com OR noreply@goyard.com OR noreply@hirefrederick.com OR noreply@houzz.com OR noreply@hubspot.com OR noreply@info.clipchamp.com OR noreply@info.iherb.com OR noreply@kaggle.com OR noreply@lovebookonline.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_30</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='noreply@mail.chope.co OR noreply@mail.etsy.com OR noreply@mailer.23andme.com OR noreply@mg.surveyjs.io OR noreply@netlify.com OR noreply@notifications.pearson.com OR noreply@ondemandkorea.com OR noreply@owhealth.com OR noreply@patient-message.com OR noreply@profile.wizardingworld.com OR noreply@qemailserver.com OR noreply@quora.com OR noreply@redditmail.com OR noreply@runsignup.com OR noreply@sheinnotice.com OR noreply@starbucks.com.hk OR noreply@steampowered.com OR noreply@t.deliveroo.com OR noreply@te.battle.net OR noreply@topcoder.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_31</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='noreply@uber.com OR noreply@unleashedsoftware.com OR noreply@viki.com OR noreply@wayfair.com OR noreply@waze.com OR noreply@zara.com OR notification@kickstarter.com OR notification@mgmresorts.com OR notifications@account.brilliant.org OR notifications@discord.com OR notifications@typeform.com OR notify@twitter.com OR novarking68ab@gmail.com OR now@mndfl.life OR nytdirect@nytimes.com OR offers@cmail.dickblick.com OR offers@wish.com OR office@fitkova.com OR ollie@gyrosco.pe OR ombs@bu.edu'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_32</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='online-admissions@seas.upenn.edu OR online.sales@ikea.com.hk OR online@citysuper.com OR online@estore.fortress.com.hk OR online@estore.watsons.com.hk OR onlinebanking@ealerts.bankofamerica.com OR onlinebanking@ealerts2.bankofamerica.com OR onlinebooking-NO-REPLY@cathaypacific.com OR onlinemarketing@mountainlodgesofperu.com OR opinions@beauty.sephora.com OR orders@shoplineapp.com OR ordersupport@e.scmp.com OR ordinations@themonastery.org OR ornella@community.replit.com OR packtlearning@packtpub.com OR partnerships@mail.bubble.io OR passwords@userinterviews.com OR pbha@pbha.org OR pbrereton@eteach.com OR peloton@s.onepeloton.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_33</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='pernillesoe@hotmail.com OR perrysa@merrimack.edu OR petco@e.petco.com OR pidcs@jebsen.com OR pinergy@mlspin.com OR portland@writethedocs.org OR pr@divinogroup-marketing.com OR premium@academia-mail.com OR president@bu.edu OR product@mail.bubble.io OR publisher@herbchambers.com OR questromalum@bu.edu OR quincy@freecodecamp.org OR rbs-rvr-fba-us@amazon.com OR recommendations@discover.pinterest.com OR renewals@namecheap.com OR replies@oracle-mail.com OR reply+6234338642657280e4716950554181632trp@message.sevenrooms.com OR reply+6234338642657280e4716950554181632trsc@message.sevenrooms.com OR reply+6234338642657280e5366155790548992trp@message.sevenrooms.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_34</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='reply+6234338642657280e5366155790548992trsc@message.sevenrooms.com OR reply@email.bookdepository.com OR reservations@carbone.com.hk OR reservations@sushiharu.com.hk OR reserve@email.explora.com OR reserve@explora.com OR retailtalent@staples.com OR risetogether@shegeeksout.com OR rittenhouse@bloout.com OR robot2@openweathermap.org OR rolandagolli268@gmail.com OR ron@impactteachers.com OR rooms@official.mandarinoriental.com OR rover@e4.rover.com OR rpearce@eteach.com OR rwieruch@substack.com OR saintlaurent@email.ysl.com OR sales@dashvapes.com OR sales@dreamlandjewelry.com OR sales@hkbookcity.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_35</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='sales@t.revolve.com OR sanvello@e.sanvello.com OR sassy@sassyhongkong.com OR scheduling@acuityscheduling.com OR searchlightpictures@email.searchlightpictures.com OR security@rollbar.com OR seller-info@amazon.com OR sendgridteam@sendgrid.com OR servday@bu.edu OR service.member@e.info.91app.com OR service@bostonorganics.com OR service@email.uniqlo.com.hk OR service@mail5.zocdoc.com OR service@paypal.com OR seyyidedancer@gmail.com OR shein@news.edmmarket.shein.com OR shein@usmail.shein.com OR shop@beauty.sephora.com OR shop@emails.macys.com OR shop@s.sephora.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_36</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='shopDisney@c.shopdisney.com OR sixflagsnewengland@email.sixflags.com OR skis@skis.com OR sm480@email.bncollege.com OR snapfish@emails.snapfish.com OR socialmedia@thefatduck.co.uk OR soe-admissionsupport@jhu.edu OR sojournbu@gmail.com OR sstpierre@moooburlington.com OR staples@connected.staples.com OR starwars@e.lucasfilm.com OR stephanie.sawhney@imse.com OR steveh@msteinert.com OR steven_catalano@hupd.harvard.edu OR subscribe@e.scmp.com OR subscriptions@gopro.com OR support@beyondpricing.com OR support@builtin.com OR support@builtinboston.com OR support@codepen.io'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_37</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='support@creative-tim.com OR support@danmagi.com OR support@digitalocean.com OR support@email.masterclass.com OR support@fyi.postmarkapp.com OR support@git-tower.com OR support@glitch.com OR support@gyrosco.pe OR support@ifttt.com OR support@interviewing.io OR support@launchschool.com OR support@myprivatetutor.hk OR support@namecheap.com OR support@one-sec.app OR support@organizeat.com OR support@plannthat.com OR support@sparkmailapp.com OR support@writethedocs.org OR survey@e.scmp.com OR sweat@mail.sweat.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_38</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='system@91app.com OR taco@trello.com OR taudibrooklinebdc@herbchambers.com OR teacherresources@mfa.org OR team@dataloop.ai OR team@dndbeyond.com OR team@glowing.com OR team@hi.wellfound.com OR team@info.digitalocean.com OR team@mail.fitbod.me OR team@mail.zova.com OR team@marketing.fitbod.app OR team@netlify.com OR team@rollbar.com OR team@stackshare.io OR team@vuemastery.com OR teams@announce.busuu.com OR teams@planoly.com OR teamtwilio@team.twilio.com OR teamzoom@e.zoom.us'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_39</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='terms-update@shop.app OR theory@e.theory.com OR tj@royaleboston.com OR tlanova@bu.edu OR tods@news.tods.com OR tony@tonyevans.org OR training@gradle.com OR training@linuxfoundation.org OR travelandleisure@mag.travelandleisure.com OR trustees@bu.edu OR two_opticians.sr@remindmemd.com OR tyndalehousepublishers@e.tyndale.com OR uber.hongkong@uber.com OR uber@uber.com OR update@forbestravelguide.com OR updates.reply@e.doctorswithoutborders.org OR updates@academia-mail.com OR updates@mail.eatingwell.com OR updates@mail.vetopia.com.hk OR updates@taskade.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_40</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='upwork@email.upwork.com OR userops@interviewing.io OR vahc@hku.hk OR valdivia@bu.edu OR venmo@email.venmo.com OR venmo@venmo.com OR verify@twitter.com OR verify@x.com OR via@viacharacter.org OR vision_care_boston.sr@remindmemd.com OR vmwareteam@connect.vmware.com OR w.gibson@helpingeducation.org OR waltdisneypictures@em.waltdisneypictures.com OR waltdisneyrecords@em.waltdisneyrecords.com OR web@stickk.com OR webenquiry@osim.com.hk OR webofwomen.bcec@gmail.com OR welcome@e.scmp.com OR what@members.babbel.com OR wheelockalum@bu.edu'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:unique_id_41</id>
+        <updated>2024-01-02T12:50:31.886Z</updated>
+        <content></content>
+        <apps:property name='from' value='wheelockevents@bu.edu OR whole-living-announce@email.meetup.com OR whole-living-list@email.meetup.com OR wholefoodsmarket@mail.wholefoodsmarket.com OR will@logrocket.com OR workshops@hyperledger.org OR world@iss.edu OR yo@dev.to OR yourfriends@interviewcake.com'/>
+        <apps:property name='shouldTrash' value='true'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+  </feed>
