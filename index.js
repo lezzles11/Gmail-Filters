@@ -139,4 +139,4 @@ function partTwo() {
 }
 // partOne();
 // edit emails.txt
-// partTwo();
+partTwo();
